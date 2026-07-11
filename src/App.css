@@ -9,10 +9,6 @@
   flex-grow: 1;
 }
 
-.tall-element {
-  height: 1000px;
-}
-
 .footer {
   display: flex;
   flex-direction: column;
