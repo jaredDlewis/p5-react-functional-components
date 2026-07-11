@@ -13,8 +13,8 @@ function App() {
 
   return (
     <div className='page'>
-      <section>
-        <h1 className='header'>p5.js Get Started Tutorial</h1>
+      <section className='header'>
+        <h1>p5.js Get Started Tutorial</h1>
       </section>
       <section className='content' ref={sketchRef}></section>
       <section className='footer'>
