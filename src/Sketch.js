@@ -1,5 +1,5 @@
 /* 
-  Approach for integrating p5 into React taken from:
+  Approach for integrating p5 into React adapted from:
   https://dev.to/christiankastner/integrating-p5-js-with-react-i0d
 
   The below sketch implements this tutorial:
